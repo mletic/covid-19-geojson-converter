@@ -20,6 +20,6 @@ https://mletic.github.io/covid-19-timeseries-viz/
 
 Where the first parameter of the converter is the location of the input file, and the second is the name of the GeoJSON file that will be generated in the root directory of the project
 
-4. It will generate `output.geojson` file in the root project folder
+4. It will generate `output.geojson` file in the root project folder. See: https://github.com/mletic/covid-19-geojson-converter/blob/master/output.geojson
 
 5. Next step is up to you, but [here](https://mletic.github.io/covid-19-timeseries-viz/) is one example on how you can visualize this data.
