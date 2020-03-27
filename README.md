@@ -7,6 +7,8 @@ https://github.com/CSSEGISandData/COVID-19
 Example of the data visualization that is using this GeoJSON can be found here: 
 https://mletic.github.io/covid-19-timeseries-viz/
 
+![Image of COVID-19 data visualization timeseries](https://raw.githubusercontent.com/mletic/covid-19-geojson-converter/master/img/covid-19-data-visualization.png)
+
 ## How to use the converter
 1. You need to have Node.js installed
 
