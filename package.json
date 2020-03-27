@@ -1,0 +1,14 @@
+{
+  "name": "covid-19-geojson-converter",
+  "version": "1.0.0",
+  "description": "JavaScript based converter that takes CSV data for Coronavirus (COVID-19) published by Johns Hopkins as input and outputs the data to GeoJSON",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marko Letic",
+  "license": "MIT"
+}
